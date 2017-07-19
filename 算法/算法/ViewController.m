@@ -137,12 +137,13 @@
 }
 
 - (void)scheme3 {
-    
     NSArray *datas = @[@10,@2,@45,@32,@78,@3,@(-1),@33,@701,@31,@17];
-
-    
 }
 
+- (void)quickSort {
+    NSArray *datas = @[@49,@38,@65,@97,@76,@13,@27,@49,];
+
+}
 
 //(max, min)search(arr, b ,e) // b 是起点，e是重点下标
 //{
